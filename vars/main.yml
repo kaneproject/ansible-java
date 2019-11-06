@@ -1,0 +1,6 @@
+---
+# vars file for curso.java
+java_packages:
+  centos: java-{{ java_version }}-openjdk
+  ubuntu: java-{{ java_version }}-openjdk
+  debian: java-{{ java_version }}-openjdk

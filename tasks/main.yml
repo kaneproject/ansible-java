@@ -1,0 +1,6 @@
+---
+# tasks file for curso.java
+- name: instalo java
+  package:
+    name: "{{ java_packages[ansible_distribution | lower ] }}"
+    state: installed

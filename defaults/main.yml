@@ -1,0 +1,4 @@
+---
+# defaults file for curso.java
+# Aceptados: 1.8.0 9 10 11
+java_version: 11
